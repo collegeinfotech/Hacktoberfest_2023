@@ -19,4 +19,14 @@
     "module_number" : 7,
     "certification" : "paid"
   }
+  {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Supervised Machine Learning: Regression and Classification",
+    "link" : "https://www.coursera.org/learn/machine-learning",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
+  }
 ]
